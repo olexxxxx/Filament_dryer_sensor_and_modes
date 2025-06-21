@@ -8,7 +8,7 @@ This repository demonstrates only the part I implemented individually.
 
 ---
 
-## 📦 Key Features
+##  Key Features
 
 - Temperature readings from **SHT30** sensor (I2C)
 - Real-time clock functionality via **DS1307** (I2C)
@@ -17,7 +17,7 @@ This repository demonstrates only the part I implemented individually.
 
 ---
 
-## 🧰 Components Used
+## Components Used
 
 - ESP32 (DevKit board)
 - SHT30 — digital temperature & humidity sensor
